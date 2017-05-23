@@ -1,0 +1,11 @@
+
+IN GLOBAL NODE
+OPEN /etc/mysql/my.cnf
+ADD
+[mysql]
+user=root
+password=xyzw
+
+
+
+https://unix.stackexchange.com/questions/48298/can-rsync-resume-after-being-interrupted

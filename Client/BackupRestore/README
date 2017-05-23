@@ -1,0 +1,9 @@
+CLIENT 
+
+client.sh
+querybackup.sh
+preconf
+querybackup
+sendkey.c
+
+fallocate -l 10G gentoo_root.img
